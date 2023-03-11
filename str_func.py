@@ -1,6 +1,6 @@
 
 def str_func(str):
-    '''Написание слова Заглавными буквами'''
+    '''слова пишутся заглавными буквами'''
     return str.upper()
 
 def str_func_title(str):
